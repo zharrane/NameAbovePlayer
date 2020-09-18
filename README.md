@@ -4,7 +4,7 @@ Name above player script for Fivem GTA V servers
 
 # About Script :
 
-Stand alone script that let you see player names above their heads, you can use it for admins or mods that doesn't have vMenu permissions.
+Stand alone script that lets you see player names above their heads, you can use it for admins or mods that doesn't have vMenu permissions.
 * Script will trigger after 5 seconds for each player that enters the server.
 * You can see names above players using invisible nclip as well
 * Distance to see player name is 250
